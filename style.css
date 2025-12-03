@@ -1,0 +1,26 @@
+img{
+    width: 200px
+}
+
+body {background-color: burlywood; text-align: center;}
+
+h1 {color: brown; size-adjust: initial; text-align: center;}
+
+.macncheese {color:yellow;}
+.ingredients1 {color: red;}
+.ingredientsmac {color: yellow;}
+.instruction1 {color: red; margin-top: 50px;}
+.instructionmac {color: yellow;}
+
+
+.pancake {color:khaki; margin-top: 100px;}
+.ingr2 {color:red}
+.ingrpan {color: khaki;}
+.instruction2 {color:red}
+.instructionpan {color: khaki;}
+
+.cookies {color: brown; margin-top: 100px;}
+.ingr3 {color:red}
+.ingrcookie {color: brown;}
+.instruction3 {color:red}
+.instructioncookie {color: brown;}
