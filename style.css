@@ -2,7 +2,7 @@ img{
     width: 200px
 }
 
-body {background-color: burlywood; text-align: center;}
+body {background-color: burlywood; text-align: center; font-family:monospace}
 
 h1 {color: brown; size-adjust: initial; text-align: center;}
 
